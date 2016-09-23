@@ -12,7 +12,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Set up Unveil Lazy Load jQuery plugin to your site.
+Set up Unveil Lazy Load jQuery plugin to your 'content' area.(not applied to all your site.)
+
 Include customized unveil.js (https://github.com/luis-almeida/unveil)
 ※MIT licence does not conflict width GPLv2 or later.
 
