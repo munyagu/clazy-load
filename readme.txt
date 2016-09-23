@@ -16,6 +16,8 @@ Set up Unveil Lazy Load jQuery plugin to your site.
 Include customized unveil.js (https://github.com/luis-almeida/unveil)
 ※MIT licence does not conflict width GPLv2 or later.
 
+This plugin support srcset and sizes attribute for responsive site.
+
 == Installation ==
 
 1. Install and activate the plugin through the 'Plugins' menu in WordPress
