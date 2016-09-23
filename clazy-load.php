@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: C'l'azy Load
+Plugin Name: cLazy Load
 Plugin URI: http://munyagu.com/
-Description: Set up Lazy Load jQuery plugin to your site.
+Description: Set up Unveil Lazy Load jQuery plugin to your site.
 Version: 1.0.0
 Author: munyagu
 Author URI: http://munyagu.com/
